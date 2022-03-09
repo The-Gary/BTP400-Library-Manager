@@ -1,0 +1,50 @@
+49564_Fixer, The_Drama_movie_true
+29101_House of Games_Crime|Film-Noir|Mystery|Thriller_magazine_false
+14455_Employment, The (Empleo, El)_Animation|Comedy|Drama_book_true
+14730_SpaceCamp_Adventure|Sci-Fi_magazine_true
+78304_Shrine, The_Horror_book_true
+28661_Phantom Tollbooth, The_Adventure|Animation|Children|Fantasy_magazine_false
+39866_After the Wedding (Efter brylluppet)_Drama_movie_false
+95413_Micmacs (Micmacs à tire-larigot)_Comedy|Crime_magazine_false
+62160_Call of Cthulhu, The_Horror|Thriller_magazine_false
+53468_Broken English_Comedy|Drama|Romance_movie_false
+74049_Amor brujo, El (Love Bewitched, A)_Drama|Musical_book_false
+98499_The Merry Widow_Comedy|Drama_magazine_true
+82805_Fugly!_Comedy_movie_true
+70986_Above Us Only Sky_Drama_movie_false
+52780_Robin Hood_Adventure|Animation|Children|Comedy|Musical_book_false
+62390_Pokemon 4 Ever (a.k.a. Pokémon 4: The Movie)_Adventure|Animation|Children|Fantasy_movie_false
+98879_How to Make a Monster_Horror|Sci-Fi_movie_false
+42095_Blissfully Yours (Sud sanaeha)_Drama|Romance_magazine_true
+14839_Fantastic Voyage_Adventure|Sci-Fi_movie_false
+33125_D.A.R.Y.L._Adventure|Children|Sci-Fi_book_false
+12906_Hour of the Wolf (Vargtimmen)_Drama|Horror_book_true
+67873_Shakespeare-Wallah_Drama_movie_true
+74309_Applause_Drama|Musical_movie_false
+58495_Big Circus, The_Drama_movie_false
+29163_Weight of Water, The_Thriller_book_false
+71875_Dead Weekend_Comedy|Sci-Fi_movie_false
+74362_The Heart Machine_Drama|Thriller_magazine_false
+35493_Pharaoh's Army_War_book_true
+19729_Education of Little Tree, The_Drama_movie_true
+21397_Berlin Babylon_Documentary_magazine_true
+13944_Breaking News (Daai si gin)_Action|Crime|Drama_book_true
+49976_Bang Bang Club, The_Drama_movie_false
+73253_Imaginarium of Doctor Parnassus, The_Drama|Fantasy_book_true
+83904_Being Elmo: A Puppeteer's Journey_Documentary_magazine_false
+93601_Sword and the Dragon, The (Ilya Muromets)_Adventure|Fantasy_book_true
+11521_Searching for Sugar Man_Documentary_book_true
+44350_Open Up to Me (Kerron sinulle kaiken)_Drama_movie_false
+37758_Arrested Development Documentary Project, The_Documentary_book_false
+19408_Black Swan, The_Adventure_movie_true
+38556_Penny Dreadful_Horror|Thriller_movie_true
+42285_Junior Prom_Documentary_movie_false
+96267_Hamoun_Drama_magazine_true
+19374_Waiting for Forever_Drama|Romance_magazine_true
+38580_Headless Woman, The (Mujer sin cabeza, La)_Drama|Mystery|Thriller_movie_true
+70316_They Call Him Bulldozer (Lo chiamavano Bulldozer)_Action|Comedy_magazine_true
+46910_Four Stories of St. Julian _Crime|Thriller_book_true
+22638_A House of Secrets: Exploring 'Dragonwyck'_Documentary_movie_true
+42348_Tucker: The Man and His Dream_Drama_book_false
+55800_testTitle_Horror_movie_true
+88978_Scary Movie_Horror | Comedy_movie_true

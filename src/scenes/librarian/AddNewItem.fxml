@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="ap" prefHeight="720.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.LibrarianController">
+   <children>
+      <ToolBar prefHeight="40.0" prefWidth="1080.0" AnchorPane.bottomAnchor="677.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <items>
+            <Button fx:id="homeBtn" mnemonicParsing="false" onAction="#displayHome" text="Home" />
+            <Button fx:id="logoutBtn" mnemonicParsing="false" onAction="#logout" text="Logout" />
+         </items>
+      </ToolBar>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="476.0" layoutY="84.0" prefHeight="37.0" prefWidth="166.0" text="Add a New Item" textFill="#bf0606">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <Button fx:id="addItemBtn" layoutX="476.0" layoutY="435.0" mnemonicParsing="false" onAction="#addNewItem" prefHeight="25.0" prefWidth="166.0" text="Add" />
+      <GridPane layoutX="476.0" layoutY="174.0" prefHeight="173.0" prefWidth="166.0">
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="166.0" minWidth="10.0" prefWidth="79.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="260.0" minWidth="10.0" prefWidth="125.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+         <children>
+            <TextField fx:id="tfTitle" GridPane.columnIndex="1" />
+            <Label prefHeight="17.0" prefWidth="75.0" text="Title:" />
+            <Label prefHeight="17.0" prefWidth="75.0" text="Genre:" GridPane.rowIndex="1" />
+            <TextField fx:id="tfGenre" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <Label prefHeight="17.0" prefWidth="75.0" text="Category:" GridPane.rowIndex="2" />
+            <TextField fx:id="tfCategory" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+         </children>
+      </GridPane>
+      <Label fx:id="errMsg" alignment="CENTER" layoutX="404.0" layoutY="360.0" prefHeight="44.0" prefWidth="311.0" textFill="RED" />
+   </children>
+</AnchorPane>
