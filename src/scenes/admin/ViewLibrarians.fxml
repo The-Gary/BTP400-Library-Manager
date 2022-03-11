@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane fx:id="ap" prefHeight="755.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.AdminController">
+<AnchorPane fx:id="ap" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.AdminController">
    <children>
       <Label layoutX="455.0" layoutY="53.0" text="Librarian Report" textFill="#d40303">
          <font>
@@ -24,7 +24,7 @@
             <TableColumn fx:id="dateCol" prefWidth="255.0" text="Hire Date" />
         </columns>
       </TableView>
-      <ToolBar layoutY="23.0" prefHeight="40.0" prefWidth="1080.0" AnchorPane.bottomAnchor="950.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <ToolBar prefHeight="40.0" prefWidth="1080.0">
          <items>
             <Button fx:id="homeBtn" mnemonicParsing="false" onAction="#displayHome" text="Home" />
             <Button fx:id="logoutBtn" mnemonicParsing="false" onAction="#logout" text="Logout" />
